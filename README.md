@@ -7,3 +7,4 @@
   Multiplayer is done by Photon PUN 2.
   
   Some of UI is made by temporary sprites.
+  amk
