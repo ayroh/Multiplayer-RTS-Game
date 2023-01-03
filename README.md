@@ -1,4 +1,4 @@
-# Multiplayer-RTS-Game
+# Multiplayer RTS Game
 
   Gameplay Link: https://youtu.be/jLwfUM0R3pA
   
