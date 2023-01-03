@@ -2,8 +2,8 @@
 
 Movement/Actions for Minion -> MinionControllerScript.cs
 
-Multiplayer -> NetworkManagerScript.cs
+Multiplayer -> Single-Multi Managers/NetworkManagerScript.cs
 
-Singleplayer -> GameManager.cs
+Singleplayer -> Single-Multi Managers/GameManager.cs
 
-Health/Initiation of Towers -> CastleScript.cs
+Health/Initiation of Towers -> Towers/CastleScript.cs
